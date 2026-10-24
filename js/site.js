@@ -13,6 +13,7 @@
     phoneShow: '+91 78452 12086',
     phone2Show: '+91 96000 82016',
     email: 'mashacateringservice@gmail.com',
+     email2: 'rasool@mashacateringservice.co.in',
     address: 'Hameem Puram, 7th Street, Melapalayam, Palayamkottai, Tirunelveli, Tamil Nadu - 627005',
     fssai: '22426282000682',
     udyam: 'UDYAM-TN-18-0107593',
@@ -86,6 +87,7 @@
     '<li><i class="fa fa-phone-alt"></i><a href="tel:' + SITE.phone + '">' + SITE.phoneShow + '</a></li>' +
     '<li><i class="fa fa-phone-alt"></i><a href="tel:' + SITE.phone2 + '">' + SITE.phone2Show + '</a></li>' +
     '<li><i class="fa fa-envelope"></i><a href="mailto:' + SITE.email + '">' + SITE.email + '</a></li>' +
+     '<li><i class="fa fa-envelope"></i><a href="mailto:' + SITE.email2 + '">' + SITE.email2 + '</a></li>' +
         '<li><i class="fa fa-map-marker-alt"></i><span>' + SITE.address + '</span></li></ul></div>' +
     '</div></div><div class="copy">&copy; ' + new Date().getFullYear() + ' ' + SITE.name + '. All rights reserved.' +
     '<div style="margin-top:6px">Powered by : <a href="https://devhubtechnologies.co.in/" class="devhub" target="_blank" rel="noopener">DevHub Technologies</a></div></div></footer>' +
